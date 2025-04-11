@@ -8,9 +8,6 @@ Menu Fetcher é uma aplicação Python que recupera menus de um endpoint de API 
 menu-fetcher
 ├── src
 │   ├── main.py               # Ponto de entrada da aplicação
-│   ├── api
-│   │   ├── fake_endpoint.py   # Simula o endpoint da API
-│   │   └── client.py          # Gerencia as requisições para a API
 │   ├── utils
 │   │   └── excel_exporter.py   # Exporta dados para Excel
 │   └── config
